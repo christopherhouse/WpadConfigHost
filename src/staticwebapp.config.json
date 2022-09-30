@@ -1,0 +1,6 @@
+{
+    "mimeTypes": {
+        ".pac": "application/x-javascript-config",
+        ".dat": "application/x-ns-proxy-autoconfig"
+    }
+}
